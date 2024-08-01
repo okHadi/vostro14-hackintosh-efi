@@ -1,12 +1,9 @@
 # vostro14-hackintosh-efi
 
-Baseline config for EX-H410M-V3 and Intel i5 10400 Hackintosh
-
 ## System Information
 
 | Part        |                                                     |
 |-------------|-----------------------------------------------------|
-| Motherboard | Asus EX-H410M-V3                                    |
 | CPU         | Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz            |
 | GPU         | Intel UHD Graphics 620                              |
 | Ethernet    | RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller |
